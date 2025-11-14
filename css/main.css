@@ -108,18 +108,21 @@ header {
 
 #lightbox1 {
     background-image: url(../images/full_mahito_css_styling.png);
+    background-size: 40vh;
 }
 
 #lightbox2 {
-    background-image: url(../images/full_sukuna_css_styling.png)
+    background-image: url(../images/full_sukuna_css_styling.png);
 }
 
 #lightbox3 {
-    background-image: url(../images/full_kenjaku_css_styling.png)
+    background-image: url(../images/full_kenjaku_css_styling.png);
+    background-size: 37vh;
 }
 
 #lightbox4 {
-    background-image: url(../images/full_geto_css_styling.png)
+    background-image: url(../images/full_geto_css_styling.png);
+    background-size: 37vh;
 }
 
 .lightbox-close {
@@ -132,7 +135,7 @@ header {
 }
 
 .lightbox-close:hover {
-    color: red;
+    color: #10CDE8;
 
 }
 
